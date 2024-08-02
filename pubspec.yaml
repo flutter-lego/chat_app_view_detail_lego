@@ -1,7 +1,7 @@
 name: chat_app_view_detail_lego
-description: "lego is all you need"
+description: "beautiful chat app view detail lego"
 #publish_to: 'none'
-#repository: https://github.com/melodysdreamj/lego
+repository: https://github.com/flutter-lego/chat_app_view_detail_lego
 
 version: 1.0.0
 
